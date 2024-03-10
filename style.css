@@ -7,7 +7,7 @@
     color: #222;
   }
   #menu ul {
-    background: #7FFFD4;
+    background: #047bf2;
     list-style-type: none;
     text-align: center;
   }
@@ -42,4 +42,8 @@
    }
    #menu ul li:hover .sub-menu {
     display: block;
+  }
+  #graduxshop{
+    font-size: 50px;
+    font-family: cursive;
   }
