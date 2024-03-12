@@ -48,3 +48,7 @@
     font-family: cursive;
     color: aqua;
   }
+  #Товар-Футболка-1200р {
+    border: solid black 2px;
+    border-radius: 10px;
+  }
