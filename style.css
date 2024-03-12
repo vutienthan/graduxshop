@@ -51,4 +51,14 @@
   #Товар-Футболка-1200р {
     border: solid black 2px;
     border-radius: 10px;
+    height: auto;
+    width: 200px;
+  }
+  .buy {
+    border: solid black 4px;
+    border-radius: 10px;
+    height: auto;
+    width: auto;
+    background-color: #047bf2;
+    color: #F1F1F1;
   }
